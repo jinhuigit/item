@@ -1,1 +1,2 @@
-alter('sadsa')
+alter('sadsa');
+consle.log(123)
